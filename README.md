@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noob232
-- 👀 I’m interested in 
-- 🌱 I’m currently learning c.s f.y 
+- 
+-🌱 I’m currently learning c.s s.y.  
 - 📫 How to reach me meenaaryan307@gmail.com
 
 <!---
